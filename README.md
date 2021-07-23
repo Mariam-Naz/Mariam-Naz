@@ -9,9 +9,8 @@ I'm a passionate self-taught web developer from Pakistan.
 Languages and Tools:
 - PHP
 - SQL
-- Node.js
+- Laravel
+- jQuery/Ajax
 - React.js
-- MongoDB
-- express.js
 - Bootstrap
  
